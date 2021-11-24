@@ -1,6 +1,6 @@
 # Hello, I'm Valentin
 
-[![](https://img.shields.io/badge/-@xiaoluoboding-%23181717?style=flat-square&logo=github)](https://github.com/valentinDiogo)
+[![](https://img.shields.io/badge/-@valentinDiogo-%23181717?style=flat-square&logo=github)](https://github.com/valentinDiogo)
 
 I am a ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net) and ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=ffffff&color=ffffff) developer.
 
