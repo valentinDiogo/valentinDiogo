@@ -17,10 +17,11 @@ I am a Javascript and .NET(C#) developer.
 
 ### Frameworks & Libraries
 
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net)
 ![React](https://img.shields.io/badge/REACT-%23282C34?style=for-the-badge&logo=react)
 ![Node.JS](https://img.shields.io/badge/NODE.JS-43853D?style=for-the-badge&logo=node.js&logoColor=ffffff)
 ![React Native](https://img.shields.io/badge/REACT%20NATIVE-%23282C34?style=for-the-badge&logo=react)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net)
+![Blazor](https://img.shields.io/badge/BLAZOR-5C2D91?style=for-the-badge&logo=blazor&logoColor=ffffff)
 
 ### Version Control
 
