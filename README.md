@@ -23,13 +23,13 @@ I am used to working with:
 ![React Native](https://img.shields.io/badge/REACT%20NATIVE-%23282C34?style=flat-square&logo=react)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net)
 
-## Version Control
+### Version Control
 
 ![Git](https://img.shields.io/badge/-GIT-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GITLAB-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GITHUB-100000?style=flat-square&logo=github)
 
-## IDEs & Editors
+### IDEs & Editors
 
 ![VS Code](https://img.shields.io/badge/-VSCODE-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Visual Studio](https://img.shields.io/badge/-VISUAL%20STUDIO-663399?style=flat-square&logo=visual-studio)
