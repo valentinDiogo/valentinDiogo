@@ -14,6 +14,7 @@ I am used to working with the following technologies:
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-007ACC?style=flat-square&logo=typescript&logoColor=ffffff)
 ![React](https://img.shields.io/badge/REACT-%23282C34?style=flat-square&logo=react)
 ![Node.JS](https://img.shields.io/badge/NODE.JS-43853D?style=flat-square&logo=node.js&logoColor=ffffff)
+![React Native](https://img.shields.io/badge/REACT%20NATIVE-%23282C34?style=flat-square&logo=react)
 
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net)
 
