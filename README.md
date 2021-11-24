@@ -22,4 +22,4 @@ I am used to working with the following technologies:
 ![GitHub](https://img.shields.io/badge/-GITHUB-100000?style=flat-square&logo=github)
 
 ![VS Code](https://img.shields.io/badge/-VSCODE-%23007ACC?style=flat-square&logo=visual-studio-code)
-![Visual Studio](https://img.shields.io/badge/-VISUAL%20STUDIO-%663399?style=flat-square&logo=visual-studio)
+![Visual Studio](https://img.shields.io/badge/-VISUAL%20STUDIO-663399?style=flat-square&logo=visual-studio)
