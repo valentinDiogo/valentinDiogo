@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/-@valentinDiogo-494949?style=flat&logo=github)](https://github.com/valentinDiogo)
 [![](https://img.shields.io/badge/-@valentinDiogo-494949?style=flat&logo=gitlab)](https://gitlab.com/valentinDiogo)
 
-I use JAVASCRIPT and .NET (C#) developer.
+I am a Javascript and .NET(C#) developer.
 
 ### Languages
 
