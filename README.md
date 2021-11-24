@@ -13,7 +13,7 @@ I am used to working with the following technologies:
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=ffffff)
 ![React](https://img.shields.io/badge/React-%23282C34?style=flat-square&logo=react)
-![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js)
+![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=ffffff)
 
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net)
 
