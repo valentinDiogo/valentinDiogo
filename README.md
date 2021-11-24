@@ -4,8 +4,6 @@
 
 I am a ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net) and ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) developer.
 
-I am used to working with:
-
 ### Languages
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
