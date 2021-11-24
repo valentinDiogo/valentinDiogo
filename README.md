@@ -10,7 +10,7 @@ I am used to working with the following technologies:
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000)
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=ffffff)
 ![React](https://img.shields.io/badge/React-%23282C34?style=flat-square&logo=react)
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=ffffff)
