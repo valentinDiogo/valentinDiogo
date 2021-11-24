@@ -1,7 +1,7 @@
 # Hello, I'm Valentin
 
-[![](https://img.shields.io/badge/-@valentinDiogo-494949?style=flat-square&logo=github)](https://github.com/valentinDiogo)
-[![](https://img.shields.io/badge/-@valentinDiogo-494949?style=flat-square&logo=gitlab)](https://gitlab.com/valentinDiogo)
+[![](https://img.shields.io/badge/-@valentinDiogo-494949?style=plastic&logo=github)](https://github.com/valentinDiogo)
+[![](https://img.shields.io/badge/-@valentinDiogo-494949?style=plastic&logo=gitlab)](https://gitlab.com/valentinDiogo)
 
 I am a ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=appveyor&logo=.net) and ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) developer.
 
