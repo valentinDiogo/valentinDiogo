@@ -1,9 +1,9 @@
-# Hello, I'm Valentin
+# Hello, I'm Valentin !
 
 [![](https://img.shields.io/badge/-@valentinDiogo-494949?style=flat&logo=github)](https://github.com/valentinDiogo)
 [![](https://img.shields.io/badge/-@valentinDiogo-494949?style=flat&logo=gitlab)](https://gitlab.com/valentinDiogo)
 
-I am a Javascript and .NET(C#) developer.
+I am a Javascript developer.
 
 ### Languages
 
